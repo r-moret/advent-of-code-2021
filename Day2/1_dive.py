@@ -1,7 +1,3 @@
-import time
-
-start = time.time()
-
 with open("Day2/input.txt") as file:
     course = file.read()
 
